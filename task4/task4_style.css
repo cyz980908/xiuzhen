@@ -1,0 +1,87 @@
+html{
+	font-size: 10px;
+}
+body{
+	background-color: #eff0f4;
+	margin:0px;
+}
+.head{
+	width: 90vw;
+	height: 60px;
+position: fixed;
+top:0px;
+background-color: #5fc0cd;
+ line-height: 60px;
+ padding-right: 5vw;
+ padding-left: 5vw;
+}
+
+.logup
+{
+	float: left;
+	color: white;
+	font-size: 3.2rem;
+}
+.punintext
+{
+	display: block;
+	width: 20vw;
+		color: white;
+margin:0px auto;
+    font-size: 3.5rem;
+    text-align: center;
+}
+.close
+{
+	float:right;
+	color: white;
+	font-size: 3.2rem;
+}
+.formm{
+	margin-top: 80px;
+}
+.phone{
+	display: block;
+	width:calc(100vw - 150px);
+background:url(task4_img/登陆_03.png) no-repeat;                 
+border: 0px;                
+padding: 30px 2px 30px 150px;
+background-color: white;
+font-size: 3.2rem;
+color: grey;
+ margin-top: 20px;
+ margin-bottom: 20px;
+}
+.password{
+	display: block;
+	width:calc(100vw - 150px);
+background:url(task4_img/登陆_06.png) no-repeat;                 
+border: 0px ;                
+padding: 30px 2px 30px 150px;
+background-color: white;
+font-size: 3.2rem;
+color: grey;
+ margin-top: 20px;
+ margin-bottom: 20px
+}
+
+.button{
+display: block;
+width:100vw;
+height: 70px;
+font-size: 2.9rem;
+background-color: #5fc0cd;
+color: white;
+}
+.forget{
+	display: block;
+	float:right;
+	margin-right: 20px;
+	font-size: 2.5rem;
+}
+a:link{
+	color: #5fc0cd;
+	}
+a:visited
+ {color: #5fc0cd;
+	}
