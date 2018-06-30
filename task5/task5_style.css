@@ -1,0 +1,157 @@
+html{
+	font-size: 1.6vh;
+}
+body{
+	background-color:white;
+	margin:0px;
+}
+.svg{
+	margin-top: calc(10vh - 43px);
+	width: 30px;
+	height: 30px;
+	position: absolute;
+	top:0px;
+	left:0px;
+}
+.head{
+	width: 100vw;
+	height: 10vh;
+position: fixed;
+top:0px;
+background-color: #5fc0cd;
+ line-height: 10vh;
+ text-align: center;
+ color: white;
+ font-size: 2.2rem;
+ z-index: 100;
+}
+.background{
+	margin-top: 10vh;
+	background:url(task5_img/背景.png) ;   
+	background-size:cover; 
+	width: 100vw;
+	height: 30vh;
+	position: relative;
+}
+.tu1{width: 80px;
+	height: 80px;
+float: left;
+	left: 0px;
+	bottom: 0px;
+padding-right: 30px;
+}
+.text1{
+	color: white;
+	font-size: 1.8rem;
+	display:block;
+}
+.tu2{width: 12px;
+	height: 12px;
+	margin-right: 10px;
+	display:inline-block;
+}
+.text2{
+	color: white;
+	font-size: 1.8rem;
+	display:inline;
+}
+.clear{
+	clear: both;
+	width: 0px;
+	height: 0px;
+}
+.nomove{
+	position: absolute;
+	bottom: 40px;
+	left: 30px;
+	width:280px;
+	height: 80px;
+}
+.tu3{
+width: 3px;
+height: 15px;
+
+}
+ul{
+	list-style-type: none;
+	font-size: 1.8rem;
+	padding-left: 25px;
+	margin: 0px;
+	margin-bottom: 12vh;
+}
+.title{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 3px;
+	border-bottom: 1px solid #eff0f4;
+	font-size: 2rem;
+	margin: 0px;
+}
+
+.tu4{
+	padding-left: 10px;
+	padding-right: 5px;
+	width: 15px;
+	height: 15px;
+}
+li{
+		border-bottom: 1px solid #eff0f4;
+		margin-top: 10px;
+	padding-bottom: 10px;
+		font-size: 1.5rem;
+	vertical-align:middle;
+}
+.block{
+	color: grey;
+	display: inline-block;
+	border-right: 1px solid #eff0f4;
+	margin-right: 10px;
+	padding-right: 10px;
+}
+.block2{
+	color: grey;
+	display: inline-block;
+	border-right: 1px solid #eff0f4;
+	margin-right: 10px;
+	padding-right: 10px;
+}
+.block3{
+	display: inline-block;
+	width: calc(100vw - 120px);
+}
+.footer{
+	width: 100vw;
+	height: 12vh;
+position: fixed;
+bottom: 0px;
+background-color: #ffffff;
+}
+.message{
+margin-left: 1vw;
+margin-top: 1vh;
+width: 48vw;
+height: 10vh;
+color: #5fc0cd;
+background-color: white;
+border-radius: 8px;
+border:2.5px solid #5fc0cd;
+font-size: 2rem;
+}
+.phone{
+margin-left: 1vw;
+margin-top: 1vh;
+width: 48vw;
+border: 2.5px solid #5fc0cd;
+height: 10vh;
+color: white;
+border-radius: 8px;
+background-color: #5fc0cd;
+font-size: : 2rem;
+}
+.red{
+	color: red;
+}
+.box{
+	display: flex;
+	align-items:center;
+}
