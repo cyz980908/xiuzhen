@@ -9,7 +9,6 @@ body{
 	width: 30px;
 	height: 30px;
 	position: absolute;
-
 	top:10px;
 	left:0px;
 }
@@ -28,10 +27,10 @@ background-color: #5fc0cd;
 .background{
 	margin-top: 50px;
 	background:url(task5_img/背景.png) ;   
-	background-size:cover; 
-	width: 100vw;
+	background-size:100vw 180px;
 	height: 180px;
 	position: relative;
+
 }
 .tu1{width: 80px;
 	height: 80px;
@@ -78,6 +77,7 @@ ul{
 	padding-left: 25px;
 	margin: 0px;
 	margin-bottom: 12vh;
+	width: 100p
 }
 .title{
 	padding-top: 10px;
@@ -129,7 +129,7 @@ background-color: #ffffff;
 .message{
 margin-left: 1vw;
 margin-top: 5px;
-width: 48vw;
+width: 48.5vw;
 height: 50px;
 color: #5fc0cd;
 background-color: white;
@@ -140,7 +140,7 @@ font-size: 2rem;
 .phone{
 margin-left: 1vw;
 margin-top: 5px;
-width: 48vw;
+width: 48.5vw;
 border: 2.5px solid #5fc0cd;
 height: 50px;
 color: white;
