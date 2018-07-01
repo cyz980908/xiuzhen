@@ -1,32 +1,32 @@
 html{
-	font-size: 1.6vh;
+	font-size: 10px;
 }
 body{
 	background-color:white;
 	margin:0px;
 }
 .svg{
-	margin-top: calc(10vh - 43px);
 	width: 30px;
 	height: 30px;
 	position: absolute;
-	top:0px;
+
+	top:10px;
 	left:0px;
 }
 .head{
 	width: 100vw;
-	height: 10vh;
+	height: 50px;
 position: fixed;
 top:0px;
 background-color: #5fc0cd;
- line-height: 10vh;
+ line-height: 50px;
  text-align: center;
  color: white;
  font-size: 2.2rem;
  z-index: 100;
 }
 .background{
-	margin-top: 10vh;
+	margin-top: 50px;
 	background:url(task5_img/背景.png) ;   
 	background-size:cover; 
 	width: 100vw;
@@ -46,7 +46,7 @@ padding-right: 30px;
 	display:block;
 }
 .tu2{width: 12px;
-	height: 12px;
+	height: 15px;
 	margin-right: 10px;
 	display:inline-block;
 }
@@ -62,9 +62,9 @@ padding-right: 30px;
 }
 .nomove{
 	position: absolute;
-	bottom: 40px;
-	left: 30px;
-	width:320px;
+	bottom: 30px;
+	left: 20px;
+	width:280px;
 	height: 80px;
 }
 .tu3{
@@ -121,7 +121,7 @@ li{
 }
 .footer{
 	width: 100vw;
-	height: 12vh;
+	height: 60px;
 position: fixed;
 bottom: 0px;
 background-color: #ffffff;
@@ -130,7 +130,7 @@ background-color: #ffffff;
 margin-left: 1vw;
 margin-top: 1vh;
 width: 48vw;
-height: 10vh;
+height: 50px;
 color: #5fc0cd;
 background-color: white;
 border-radius: 8px;
@@ -142,11 +142,11 @@ margin-left: 1vw;
 margin-top: 1vh;
 width: 48vw;
 border: 2.5px solid #5fc0cd;
-height: 10vh;
+height: 50px;
 color: white;
 border-radius: 8px;
 background-color: #5fc0cd;
-font-size: : 2rem;
+font-size:  2rem;
 }
 .red{
 	color: red;
