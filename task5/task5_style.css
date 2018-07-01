@@ -128,7 +128,7 @@ background-color: #ffffff;
 }
 .message{
 margin-left: 1vw;
-margin-top: 1vh;
+margin-top: 5px;
 width: 48vw;
 height: 50px;
 color: #5fc0cd;
@@ -139,7 +139,7 @@ font-size: 2rem;
 }
 .phone{
 margin-left: 1vw;
-margin-top: 1vh;
+margin-top: 5px;
 width: 48vw;
 border: 2.5px solid #5fc0cd;
 height: 50px;
