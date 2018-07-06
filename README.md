@@ -12,3 +12,33 @@ the work of 修真学院
  
  这是一个关于个一个最常见的移动端页面的小demo  task5
  [demo](https://cyz980908.github.io/xiuzhen/task5/task5.html)   
+ 
+  这是一个关于个一个护工复杂带下拉列表，用了bootsrtap页面的小demo  task6
+ [demo](https://cyz980908.github.io/xiuzhen/task5/task6.html)   
+ 
+  这是一个关于个一个最常见的移动端页面的小demo  task7
+ [demo](https://cyz980908.github.io/xiuzhen/task5/task7.html)   
+ 
+  这是一个关于个一个最常见的移动端页面的小demo  task8
+ [demo](https://cyz980908.github.io/xiuzhen/task5/task8.html)   
+ 
+  这是一个关于个一个最常见的移动端页面的小demo  task9
+ [demo](https://cyz980908.github.io/xiuzhen/task5/task9.html)   
+ 
+  这是一个关于个一个最常见的移动端页面的小demo  task10
+ [demo](https://cyz980908.github.io/xiuzhen/task5/task10.html)   
+ 
+  这是一个关于个一个最常见的移动端页面的小demo  task11
+ [demo](https://cyz980908.github.io/xiuzhen/task5/task11.html)   
+ 
+  这是一个关于个一个最常见的移动端页面的小demo  task12
+ [demo](https://cyz980908.github.io/xiuzhen/task5/task12.html)   
+ 
+  这是一个关于个一个最常见的移动端页面的小demo  task13
+ [demo](https://cyz980908.github.io/xiuzhen/task5/task13.html)   
+ 
+  这是一个关于个一个最常见的移动端页面的小demo  task14
+ [demo](https://cyz980908.github.io/xiuzhen/task5/task14.html)   
+ 
+  这是一个关于个一个最常见的移动端页面的小demo  task15
+ [demo](https://cyz980908.github.io/xiuzhen/task5/task15.html)   
