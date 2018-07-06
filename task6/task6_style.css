@@ -104,8 +104,9 @@ left:15%;
 color: #afbac0;
 }
 .col-xs-4{
-	padding-right: 10px;
+	padding: 0;
 	width: 33.3%;
+		border-bottom: #dadcdd 1px solid;
 }
 
 .dropdown-menu{
@@ -117,7 +118,7 @@ color: #afbac0;
 	padding: 0px;
 	margin-right: 10px;
 	width: 100%;
-	border-bottom: #dadcdd 1px solid;
+
 }
 .caret{
 	float: right;
@@ -131,10 +132,9 @@ color: #afbac0;
 }
 .row{
 	width: 100%;
+	margin:0;
 }
-.sh{
-	border-bottom: #dadcdd 1px solid;
-}
+
 .flex1{
 	 flex-direction:column; 
 }
